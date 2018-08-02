@@ -28,7 +28,4 @@ TestBuild_Shipping/
 # Ignore test stuff
 Content/Builds/
 Content/Bricks/Temp
-*.uproject
-Content/Maps/Main_World.umap
-
 .ini
