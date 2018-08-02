@@ -29,3 +29,4 @@ TestBuild_Shipping/
 Content/Builds/
 Content/Bricks/Temp
 .ini
+.uproject
