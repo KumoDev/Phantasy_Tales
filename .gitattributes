@@ -1,3 +1,4 @@
 Content\Maps\Main_World.umap filter=lfs diff=lfs merge=lfs -text
 Content/Maps/heightmap/Main_World.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Main_world.umap filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
