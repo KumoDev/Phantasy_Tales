@@ -9,7 +9,7 @@
 *
 */
 UCLASS()
-class PHANTASYTALESDEV_API UQuatRotation : public UBlueprintFunctionLibrary
+class PHANTASYTALES_API UQuatRotation : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 

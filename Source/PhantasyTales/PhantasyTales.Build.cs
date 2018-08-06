@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class PhantasyTalesDev : ModuleRules
+public class PhantasyTales : ModuleRules
 {
-	public PhantasyTalesDev(ReadOnlyTargetRules Target) : base(Target)
+	public PhantasyTales(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
