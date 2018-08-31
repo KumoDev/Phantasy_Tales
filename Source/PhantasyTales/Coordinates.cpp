@@ -8,7 +8,8 @@ float UCoordinates::DistanceOfActorToThisMeshSurface(AActor* Surface, AActor* Te
 	//~~~~~~~~~~~
 
 	//Dist of Actor to Surface, retrieve closest Surface Point to Actor
-	return Surface->GetDistanceToCollision(
-		TestActor->GetActorLocation(), ClosestSurfacePoint
-	);
+	//return Surface->GetDistanceToCollision(
+	//	TestActor->GetActorLocation(), ClosestSurfacePoint
+	//);
+	return 0.0f;
 }
