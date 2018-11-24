@@ -1,2 +1,0 @@
-"Ocean Water for Texture, Full Frame" (https://flic.kr/p/8qZ2XE) by George Lenard is licensed under CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/).
-1024_seamless_tex1.uasset and 1024_seamless_tex2.uasset are derivatives of this image (cropped, made seamless) and are used as a foam texture.
